@@ -1,7 +1,8 @@
-#Projet Tech : Wild Data Hub
+<h1 align="center"> Projet Tech : Wild Data Hub </h1>
 
+<p align="justify">
 Ce projet, réalisé dans le cadre de ma formation à la Wild Code School, consiste à développer une application complète d’analyse de données, de la collecte à la visualisation, 
-en choisissant un domaine d’intérêt personnel.
+en choisissant un domaine d’intérêt personnel. </p>
 
 ---
 **Contexte et Objectif** 🎯
@@ -38,23 +39,22 @@ Le projet est structuré en plusieurs phases :
 
  ---
  **Technologies Utilisées** 💻
- 
-	•	**Python** : Pour la collecte, le traitement et le nettoyage des données.
-	•	**pandas & numpy** : Pour la manipulation et l’analyse des données.
-	•	**PostgreSQL** : Pour la gestion de la base de données relationnelle.
-	•	**Streamlit / Dash / PowerBI** : Pour la création de visualisations interactives et de tableaux de bord dynamiques.
-	•	**Frameworks IA/ML** : Pour l’enrichissement des analyses par l’intelligence artificielle.
+ - **Python** : Pour la collecte, le traitement et le nettoyage des données.
+ - **pandas & numpy** : Pour la manipulation et l’analyse des données.
+ - **PostgreSQL** : Pour la gestion de la base de données relationnelle.
+ - **Streamlit / Dash / PowerBI** : Pour la création de visualisations interactives et de tableaux de bord dynamiques.
+ - **Frameworks IA/ML** : Pour l’enrichissement des analyses par l’intelligence artificielle.
 
  ---
  **Livrables** 📦
- 
-	•	Scripts de Collecte et d’Extraction des Données : Automatisant la collecte depuis diverses sources.
-	•	Pipeline de Nettoyage et de Prétraitement : Assurant des données prêtes à l’analyse.
-	•	Infrastructure ETL Opérationnelle : Gérant le flux de données de bout en bout.
-	•	Base de Données Optimisée et Documentée : Facilitant l’accès et la gestion des données.
-	•	Tableaux de Bord Interactifs : Offrant des insights clairs et exploitables.
-	•	Interface Utilisateur Fonctionnelle et Intuitive : Améliorant l’expérience utilisateur.
-	•	Documentation Technique et Guide Utilisateur : Assurant une compréhension et une utilisation aisées du système.
+
+- Scripts de Collecte et d’Extraction des Données : Automatisant la collecte depuis diverses sources.
+- Pipeline de Nettoyage et de Prétraitement : Assurant des données prêtes à l’analyse.
+- Infrastructure ETL Opérationnelle : Gérant le flux de données de bout en bout.
+- Base de Données Optimisée et Documentée : Facilitant l’accès et la gestion des données.
+- Tableaux de Bord Interactifs : Offrant des insights clairs et exploitables.
+- Interface Utilisateur Fonctionnelle et Intuitive : Améliorant l’expérience utilisateur.
+- Documentation Technique et Guide Utilisateur : Assurant une compréhension et une utilisation aisées du système.
 
  ---
 **Conclusion** 🏁
