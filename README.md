@@ -9,6 +9,7 @@ en choisissant un domaine d’intérêt personnel. </p>
 
 L’objectif est de créer une application d’analyse de données personnalisée, couvrant toutes les étapes du pipeline de données : collecte, transformation, stockage, analyse et visualisation. Le choix du domaine d’application est libre, permettant d’explorer des secteurs tels que le business, le sport, l’environnement, les médias sociaux, la musique, le cinéma, les jeux vidéo, etc.
 
+--
 
 **Approche Méthodologique** 🛠️
 
